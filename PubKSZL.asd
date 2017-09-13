@@ -1,0 +1,11 @@
+单位名称=枚江乡乡政府
+单位代码=xc00601
+会计期间=2017
+编码方案=4-3-2-2-2,2-3-2,1-3-3-3,3-3-2,3-4-2,2-2-2-2,,,,
+ReadOnly=False
+WLFJ=3-4-2
+[PubKSZL]
+dwdmgsdmdwmcjymdwqcdqdmtxdzyblxrxmtelfaxemailhttpsjdwdmzzshyyzhfrdbxmjyfwkhyhzhyszkkmdmyfzkkmdmdwwbbizhxytsxyedsftzjysfxykzsfkhsfcjsfgyssfjtndwsyztbzJlr_IDJl_RQXgr_IDXg_RQsjlydyzwzthdyzwztmcdysjkdyzwztckkmdyckkmdyckzhdyyhckzhdyyhxjzhbzlybzSYztbzbz1bzbz2bzbz3bzbz4bzbz5bzbz6bzbz7sfysdwdwxzshdwfzrcwfzrdwjbrdwgbmSFMXYHBMMQKPBZDYYHCKZH_FKPJMAXSL
+001政府ZF政府0000000001120131210120131210*0101_00
+002司法所SFS司法所0000000000120131210120131210*0101_00
+==End==
